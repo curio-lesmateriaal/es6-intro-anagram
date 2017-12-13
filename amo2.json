@@ -1,0 +1,105 @@
+{
+    "status" : 200,
+    "code" : "ok",
+    "totalClassCount" : 4,
+    "totalStudentCount" : 40,
+    "results" : [
+        {
+            "name": "AMO2A",
+            "studentCount": 13,
+            "SLB": "kr1f",
+            "afdeling": "ICO",
+            "students": [
+                {
+                    "name" : "Joey Oonincx",
+                    "studentId" : "D345678"
+                },
+                {
+                    "name": "Dennis Pulles",
+                    "studentId" : "D564567"
+                },
+                {
+                    "name" : "Jelle Kootwijk",
+                    "studentId" : "D958695"
+                },
+                {
+                    "name": "Kevin Nunes da Silva",
+                    "studentId": "D12345"
+                }
+            ]
+        },
+        {
+            "name": "AMO2B",
+            "studentCount": 13,
+            "SLB": "fg73",
+            "afdeling": "ICO",
+            "students": [
+                {
+                    "name" : "Joey Oonincx",
+                    "studentId" : "D345678"
+                },
+                {
+                    "name": "Dennis Pulles",
+                    "studentId" : "D564567"
+                },
+                {
+                    "name" : "Jelle Kootwijk",
+                    "studentId" : "D958695"
+                },
+                {
+                    "name": "Kevin Nunes da Silva",
+                    "studentId": "D12345"
+                }
+            ]
+        },
+        {
+            "name": "AMO2C",
+            "studentCount": 13,
+            "SLB": "eb89",
+            "afdeling": "ICO",
+            "students": [
+                {
+                    "name" : "Joey Oonincx",
+                    "studentId" : "D345678"
+                },
+                {
+                    "name": "Dennis Pulles",
+                    "studentId" : "D564567"
+                },
+                {
+                    "name" : "Jelle Kootwijk",
+                    "studentId" : "D958695"
+                },
+                {
+                    "name": "Kevin Nunes da Silva",
+                    "studentId": "D12345"
+                }
+            ]
+        },
+        {
+            "name": "AMO2D",
+            "studentCount": 13,
+            "SLB": "tl10",
+            "afdeling": "ICO",
+            "students": [
+                {
+                    "name" : "Joey Oonincx",
+                    "studentId" : "D345678"
+                },
+                {
+                    "name": "Dennis Pulles",
+                    "studentId" : "D564567"
+                },
+                {
+                    "name" : "Jelle Kootwijk",
+                    "studentId" : "D958695"
+                },
+                {
+                    "name": "Kevin Nunes da Silva",
+                    "studentId": "D12345"
+                }
+            ]
+        }
+
+    ]
+}
